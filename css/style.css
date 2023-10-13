@@ -1,0 +1,26 @@
+
+nav{
+    font-size: 25px;
+}
+
+  
+  ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+  }
+
+  li {
+      border-bottom: 1px solid #555;
+      display:inline-flex;right: auto;
+  }
+nav{
+    text-align: right;
+}
+.logo img {
+    position: relative;
+    width: 150px;
+    float:left;
+    margin-top:16px;
+    cursor: pointer;
+}
